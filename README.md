@@ -1,4 +1,4 @@
-### Hi there 👋
+### Frida Eriksen Næss
 
 ![Frida's github stats](https://github-readme-stats.vercel.app/api?username=fridaeriksenaess&theme=github_dark)
 
