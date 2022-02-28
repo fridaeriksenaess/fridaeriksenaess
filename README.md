@@ -2,9 +2,6 @@
 
 ![Frida's github stats](https://github-readme-stats.vercel.app/api?username=fridaeriksenaess&theme=github_dark)
 
-
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 <!--
 **fridaeriksenaess/fridaeriksenaess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
