@@ -1,4 +1,8 @@
-### Frida Eriksen Næss
+
+<div align="center">
+    Frida Eriksen Næss
+</div>
+
 
 ![Frida's github stats](https://github-readme-stats.vercel.app/api?username=fridaeriksenaess&theme=github_dark)
 
