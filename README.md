@@ -8,9 +8,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/frida-eriksen-n%c3%a6ss-1ba43622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frida-eriksen-n%c3%a6ss-1ba43622a/" height="30" width="40" /></a>
 </p>
 
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fridaeriksenaess&show_icons=true)](https://github.com/fridaeriksenaess)
+<div style="float: right; margin-left: 20px;">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fridaeriksenaess&show_icons=true)](https://github.com/fridaeriksenaess)
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
