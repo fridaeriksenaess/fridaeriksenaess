@@ -47,14 +47,11 @@
 <h5>Get in touch with me here:</h5>
 <p>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=fridaeriksenaess@gmail.com&tf=cm" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="https://www.facebook.com/profile.php?id=100009066063190" height="30" width="40" />
-  </a>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="https://www.facebook.com/profile.php?id=100009066063190" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100009066063190" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009066063190" height="30" width="40" />
-  </a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009066063190" height="30" width="40" /></a>
   <a href="linkedin.com/in/frida-eriksen-næss-1ba43622a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frida-eriksen-n%c3%a6ss-1ba43622a/" height="30" width="40" />
-  </a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frida-eriksen-n%c3%a6ss-1ba43622a/" height="30" width="40" /></a>
 </p>
 </div>
 </div>
