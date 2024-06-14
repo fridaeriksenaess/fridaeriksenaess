@@ -38,11 +38,12 @@
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</p>
+       <a href="https://remix.run/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="40" height="40"/> 
+        <a href="https://tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="tanstack" width="40" height="40"/>
+       </p>
     </td>
   </tr>
 </table>
-
 <div align="center">
 <h5>Get in touch with me here:</h5>
 <p>
