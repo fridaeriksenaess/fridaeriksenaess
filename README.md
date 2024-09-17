@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hi👋🏽 I am Frida!</h2>
-<p>I am currently studying my forth year at Informatics at NTNU Trondheim👩🏽‍💻 </p>
+<p>I am currently studying my fourth year at Informatics at NTNU Trondheim👩🏽‍💻 </p>
 
 <h3>Languages and Tools:</h3>
 <table style="border: none;">
