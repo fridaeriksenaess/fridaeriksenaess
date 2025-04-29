@@ -42,7 +42,6 @@
       <br>
         <p align="center">
        <a href="https://remix.run/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="40" height="40"/> 
-        <a href="https://tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="tanstack" width="40" height="40"/>
         </p>
     </td>
   </tr>
